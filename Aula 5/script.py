@@ -1,4 +1,3 @@
-!pip install -U -q google-generativeai
 
 #Importações e configurações iniciais
 import numpy as np
